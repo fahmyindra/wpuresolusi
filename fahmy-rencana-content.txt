@@ -2,10 +2,12 @@ RENCANA KONTEN FAHMY
 
 -javascript
 *ES6
-*Framework Javascript 
- ^ Angular
- ^ React
+*Framework Javascript
+ ^vue
+ ^React
+-Struktur Data Dasar
 -PHP Frameworks
  ^Laravel
 -interview
 -vlogs
+-Python
