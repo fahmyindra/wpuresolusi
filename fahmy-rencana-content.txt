@@ -5,6 +5,7 @@ RENCANA KONTEN FAHMY
 *Framework Javascript
  ^vue
  ^React
+ ^Angular
 -Struktur Data Dasar
 -PHP Frameworks
  ^Laravel
